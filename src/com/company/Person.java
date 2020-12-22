@@ -5,4 +5,5 @@ public class Person {
     String surname;
     int age;
     String email;
+    String tel;
 }
